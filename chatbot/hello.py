@@ -1,0 +1,2 @@
+import greetings
+greetings.menu()
