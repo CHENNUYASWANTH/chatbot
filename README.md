@@ -8,3 +8,12 @@
   1. evaluate an expression 
   2. play a random number game with you
   3. quit
+  
+## BLOCK DIAGRAM OF THE CHATBOT
+
+![BLOCK DIAGRAM]()
+
+## DEMO VIDEO OF THE CHATBOT
+
+## this is a short video on the chatbot
+[here the video](https://youtu.be/PFyE4wLMwrQ)
