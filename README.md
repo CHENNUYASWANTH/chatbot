@@ -11,7 +11,7 @@
   
 ## BLOCK DIAGRAM OF THE CHATBOT
 
-![BLOCK DIAGRAM]()
+![BLOCK DIAGRAM](https://github.com/CHENNUYASWANTH/chatbot/blob/main/bolck%20diag.jpeg)
 
 ## this is a short video on the chatbot
 [here the video](https://youtu.be/PFyE4wLMwrQ)
