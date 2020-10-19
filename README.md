@@ -13,7 +13,5 @@
 
 ![BLOCK DIAGRAM]()
 
-## DEMO VIDEO OF THE CHATBOT
-
 ## this is a short video on the chatbot
 [here the video](https://youtu.be/PFyE4wLMwrQ)
