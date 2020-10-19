@@ -15,3 +15,6 @@
 
 ## this is a short video on the chatbot
 [here the video](https://youtu.be/PFyE4wLMwrQ)
+
+Random module is used to generate random variables in a program.
+Datetime module is used to give current information about date and time.
