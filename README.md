@@ -1,1 +1,10 @@
 # chatbot for ml2021 
+
+## What this chatbot can do?
+* It greets the user.
+* It ask the user name.
+* It again greets user with specific part of the day.
+* It asks the use to select a task which it can perform.
+   1.evaluate an expression 
+   2.play a random number game with you
+   3.quit
